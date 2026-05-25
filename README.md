@@ -7,9 +7,6 @@ This project includes a complete frontend UI with product pages, shopping cart, 
 
 # 🚀 Live Demo
 
-Add your deployment link here after hosting.
-
-Example:
 
 [https://your-project-name.vercel.app](https://ice-cream-parlour-website-brown.vercel.app/)
 
@@ -109,16 +106,6 @@ Run the project by opening:
 ```bash
 index.html
 ```
-
----
-
-# 🌐 Deployment
-
-You can deploy this project on:
-
-- Vercel
-- Netlify
-- GitHub Pages
 
 ---
 
