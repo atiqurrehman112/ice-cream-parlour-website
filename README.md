@@ -11,7 +11,7 @@ Add your deployment link here after hosting.
 
 Example:
 
-https://your-project-name.vercel.app
+[https://your-project-name.vercel.app](https://ice-cream-parlour-website-brown.vercel.app/)
 
 ---
 
